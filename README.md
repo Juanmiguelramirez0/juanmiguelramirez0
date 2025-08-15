@@ -41,8 +41,6 @@
 
 <br />
 <br />
-<br />
-<br />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,php,laravel,css,html" />
