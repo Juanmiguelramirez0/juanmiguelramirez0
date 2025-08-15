@@ -25,14 +25,13 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Juanmiguelramirez0&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Juanmiguelramirez0&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Juanmiguelramirez0" style="padding-right:20px;" />
 </p>
 
 ---
 
-
+<br />
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -41,15 +40,19 @@
 
 <br />
 <br />
+<br />
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,php,laravel,css,html" />
 </p>
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
+<h3 align="center">Current Learning</h3>
+<ul align="center">
+
   <li>Enhancing my skills in UI/UX design fundamentals.</li>
-  <li> Currently learning **Figma**.</li>
+  <br/>
+  <li> Currently learning in Figma.</li>
 </ul>
 
 
