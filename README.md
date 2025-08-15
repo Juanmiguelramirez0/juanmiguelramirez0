@@ -41,9 +41,6 @@
 
 <br />
 <br />
-⚡ Tech Stack
-<br />
-<br />
 <br />
 <br />
 
