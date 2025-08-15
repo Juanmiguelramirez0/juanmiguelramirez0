@@ -30,16 +30,13 @@
 - 🎓 Graduated in ACT (**Associate in Computer Technology**) (2024 - 2025)
 - 💻 Passionate about **UI/UX Design** 
 
-
-<!--End Intro-->
-
 <!--Profile Count Badge-->
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Juanmiguelramirez0&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Juanmiguelramirez0" style="padding-right:20px;" />
 </p>
 
+<!--End Intro-->
 ---
-
 <br />
 <!--Languages and Tools Section-->       
 <picture>
@@ -66,12 +63,6 @@
   <li> Currently learning in Figma.</li>
 </ul>
 
-
-
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
