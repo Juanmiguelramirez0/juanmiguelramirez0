@@ -37,12 +37,11 @@
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-
 <br />
 <br />
 <br />
-
-    
+<br />
+<br />
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 
 <p align="center">
