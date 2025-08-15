@@ -45,7 +45,7 @@
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,php,laravel,css,html" />
+  <img src="https://skillicons.dev/icons?i=figma,php,laravel,css" />
 </p>
 
 <h3 align="center">Current Learning</h3>
