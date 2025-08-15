@@ -7,8 +7,18 @@
 </div>
 
 <!--Header Name-->
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Juan Miguel Ramirez! 
-          Aspiring UI/UX Designer
+
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/>  
+  Juan Miguel Ramirez
+</h1>
+
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Juan+Miguel;+Aspiring+UI/UX+Designer" alt="Typing SVG" />
+</h1>
+
 <br /> 
 
 <!--Start Intro-->               
