@@ -59,6 +59,9 @@
   <li>Enhancing my skills in UI/UX design fundamentals.</li>
   <br/>
   <li> Currently learning in Figma.</li>
+<br/>
+  <li> https://www.figma.com/design/4osBSxiM46D43aj3JJ3Hxh/Untitled?node-id=0-1&t=7P9OyvUr1FvUGqei-1&fbclid=IwY2xjawM612JleHRuA2FlbQIxMABicmlkETFqYjZrV01TakdOSGFDOGRhAR7jm-XRg4qWIiRxle1YP6O2hulVuECoZRfo_J4CX7WdzzflnRgLBYzLE_cX1Q_aem_nD_p5zyzJ-McmblhFBqeOQ
+  </li>
 </ul>
 
 <br />
