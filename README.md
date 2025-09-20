@@ -41,6 +41,12 @@
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br />
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## <h2 align="center">About Me</h2> 
 - 🎓 ACT (**Associate in Computer Technology**) Graduate, 2024–2025  
@@ -56,7 +62,7 @@
 <br>
 <br>
 <br>
-****<h3 align="center">Current Learning</h3>
+<h3 align="center">Current Learning</h3>
 <ul align="center">
 
   <li>Enhancing my skills in UI/UX design fundamentals.</li>
