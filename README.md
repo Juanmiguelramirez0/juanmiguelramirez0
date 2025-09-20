@@ -70,30 +70,12 @@
   <br/>
 <br/>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
 
 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,php,laravel,css" />
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <h3 align="center">Current Learning</h3>
 <ul align="center">
