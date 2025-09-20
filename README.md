@@ -46,6 +46,11 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 
 ## <h2 align="center">About Me</h2> 
@@ -53,6 +58,13 @@
 - ✏️ Passionate about **UI/UX Design**
   <br/>
 <br/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 <p align="center">
